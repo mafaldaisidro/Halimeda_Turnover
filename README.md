@@ -1,4 +1,4 @@
-# Halimeda_Timescale
+# Halimeda_Turnover
 
 R script and data associated with Isidro et al.Changes in nitrogen source are recorded by δ15N values of a common coral reef macroalga within two weeks
 
